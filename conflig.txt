@@ -1,7 +1,1 @@
-Giả lập conflig tài liệu
-Thay đổi của cuccuc
-Truccute 
-12
-2
-Test register
-Thái tạo conflig khởi đầu
+1. Overall 
