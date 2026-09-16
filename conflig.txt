@@ -4,3 +4,4 @@ Truccute
 12
 2
 Test register
+Thái tạo conflig khởi đầu
